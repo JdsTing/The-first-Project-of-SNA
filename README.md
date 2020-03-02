@@ -2,8 +2,8 @@
 2020 One Project in Social Network Analysis
 
 
-### AI 人生RPG 我的升學之路 之
-## Dcard 學生在討論什麼？ 
+#### AI 人生RPG 我的升學之路 之
+##   Dcard 學生在討論什麼？ 
 
 - Data from Dcard API
 - "Jieba" --  Chinese text segmentation: built to be the best Python Chinese word segmentation module.
