@@ -1,5 +1,5 @@
 # The-first-Project-of-SNA
-2020 One Project in Social Network Analysis
+2020 The first Project in Social Network Analysis
 
 
 #### AI 人生RPG 我的升學之路 之
